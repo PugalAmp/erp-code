@@ -1,4 +1,0 @@
-[01-May-2026 10:27:15 Asia/Dubai] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/samandth/public_html/hayatjadidagroups.com/erp/application/helpers/dompdf/src/Css/Style.php on line 1308
-[01-May-2026 10:27:31 Asia/Dubai] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/samandth/public_html/hayatjadidagroups.com/erp/application/helpers/dompdf/src/Css/Style.php on line 1308
-[01-May-2026 10:28:37 Asia/Dubai] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/samandth/public_html/hayatjadidagroups.com/erp/application/helpers/dompdf/src/FrameReflower/AbstractFrameReflower.php on line 74
-[01-May-2026 10:31:22 Asia/Dubai] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 20480 bytes) in /home/samandth/public_html/hayatjadidagroups.com/erp/application/helpers/dompdf/src/Css/Style.php on line 1308
